@@ -1,4 +1,4 @@
-# 🐍 GitHub Contribution Snake Animation
+# 🐍 GitHub Contribution Snake Animation m
 
 Este repositório gera automaticamente a **animação da cobra que come o gráfico de contribuições do GitHub**.
 
